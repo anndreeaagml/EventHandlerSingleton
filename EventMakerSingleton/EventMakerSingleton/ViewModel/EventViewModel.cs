@@ -8,5 +8,6 @@ namespace EventMakerSingleton.ViewModel
 {
     class EventViewModel
     {
+        
     }
 }
