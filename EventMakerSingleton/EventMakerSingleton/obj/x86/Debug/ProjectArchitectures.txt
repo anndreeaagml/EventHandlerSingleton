@@ -1,0 +1,1 @@
+C:\Users\andreea\source\repos\EventMakerSingleton\EventMakerSingleton\EventMakerSingleton.csproj;x86
